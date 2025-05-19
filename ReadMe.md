@@ -88,14 +88,7 @@ Welcome to the repository containing a rich set of **Java programs** ranging fro
 
 ---
 
-## 💡 Why This Repo?
-This repository is perfect for:
-- 📚 Students practicing Java concepts
-- 👩‍💻 Beginners exploring backend development
-- 🎓 Engineering mini & major project references
-- 🔄 Revising core and advanced Java topics
 
----
 
 ## 🌟 Happy Learning!
 Feel free to explore, run, and modify the programs as per your learning needs!  
