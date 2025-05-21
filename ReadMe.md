@@ -1,4 +1,4 @@
-# 📚 Java Programs 🚀
+# 📚 Advanced Java Programs 🚀
 
 Welcome to the repository containing a rich set of **Java programs** ranging from **Core Java (ArrayList, LinkedList, Strings)** to **Swing GUI**, **Servlets**, **JSP**, and **JDBC** operations. Each program is crafted to demonstrate specific Java functionalities and concepts, making this repo a one-stop guide for hands-on learning! 💡
 
